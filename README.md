@@ -1,7 +1,9 @@
 # Starter Web Project
-## Introduction 
 This is a simple text file.
-showing how to use git and github.
+showing how to use git and github
+## Introduction 
+Introduction of github.
+It contains all the relevant info regarding changes in github.
 
 ## Purpose
 
